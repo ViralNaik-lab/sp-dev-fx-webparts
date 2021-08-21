@@ -4,10 +4,10 @@ export default class MyAccordionTemplate {
         <h3>FOREWORD</h3>
         <div>
             <p>
-            Naam   enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
+            Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
             Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero
             ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis
-            lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui.</p>
+            lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui. </p>
         </div>
         <h3>What are vCFO services? </h3>
         <div>
