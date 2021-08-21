@@ -9,7 +9,7 @@ export default class MyAccordionTemplate {
             ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis
             lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui. </p>
         </div>
-        <h3>What are vCFO services? </h3>
+        <h3>What are vCFO services/h3>
         <div>
             <p>
             Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.

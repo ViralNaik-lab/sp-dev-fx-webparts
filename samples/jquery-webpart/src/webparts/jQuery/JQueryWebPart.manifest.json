@@ -1,27 +1,17 @@
-{
-  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "af2669c1-6a0f-41ec-a40e-89ebd775c807",
-  "alias": "JQueryWebPart",
-  "componentType": "WebPart",
-
-  // The "*" signifies that the version should be taken from the package.json
-  "version": "*",
-  "manifestVersion": 2,
-
-  // If true, the component can only be installed on sites where Custom Script is allowed.
-  // Components that allow authors to embed arbitrary script code should set this to true.
-  // https://support.office.com/en-us/article/Turn-scripting-capabilities-on-or-off-1f2c515f-5d7e-448a-9fd7-835da935584f
-  "requiresCustomScript": false,
-  "supportedHosts": ["SharePointWebPart"],
-
-  "preconfiguredEntries": [{
-    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
-    "group": { "default": "Other" },
-    "title": { "default": "jQuery" },
-    "description": { "default": "jqueryui Accordion" },
-    "officeFabricIconFontName": "Page",
-    "properties": {
-      "description": "jQuery"
-    }
-  }]
-}
+"preconfiguredEntries": [
+  {
+  "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Other
+  "group": { "default": "HR" }, //This is the group name that webpart appears on when you are adding webpart on the page
+  "title": { "default": "PeopleSearch" },
+  "description": { "default": "Employee Directory" },
+  // "officeFabricIconFontName": "ATPLogo",
+  "iconImageUrl": "https://static2.sharepointonline.com/files/fabric/assets/brand-icons/product-fluent/svg/onedrive_48x1.svg",
+  
+  "properties": {
+  "webpartTitle": "SharePoint News",
+  "siteURL": "https://spfxnz.sharepoint.com/sites/ReactAccordion01/",
+  "sourceList": "vCFO",
+  "headerColumnName": "Title",
+  "contentColumnName": "Description"
+  }
+  }
