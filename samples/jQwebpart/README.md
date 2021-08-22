@@ -5,6 +5,8 @@
 Short summary on functionality and used technologies.
 
 [picture of the solution in action, if possible]
+![image](https://user-images.githubusercontent.com/84363913/130340008-c574edb0-497c-4697-b3b3-778eb1cd45f4.png)
+
 
 ## Used SharePoint Framework Version
 
