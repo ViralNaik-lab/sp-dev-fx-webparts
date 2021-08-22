@@ -2,7 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Connect your client-side web part to SharePoint
 
 [picture of the solution in action, if possible]
 ![image](https://user-images.githubusercontent.com/84363913/130340008-c574edb0-497c-4697-b3b3-778eb1cd45f4.png)
@@ -21,20 +21,24 @@ Short summary on functionality and used technologies.
 
 ## Prerequisites
 
-> Any special pre-requisites?
+> Tested with below dependencies
+
+Npm install @types/jquery@2 --save-dev
+
+Npm install @types/jqueryui --save-dev
 
 ## Solution
 
 Solution|Author(s)
 --------|---------
-folder name | Author details (name, company, twitter alias with link)
+folder name | Author details (Viral Naik, company, twitter alias with link)
 
 ## Version history
 
 Version|Date|Comments
 -------|----|--------
-1.1|March 10, 2021|Update comment
-1.0|January 29, 2021|Initial release
+1.1|August 22, 2021|Update comment
+1.0|August 22, 2021|Initial release
 
 ## Disclaimer
 
