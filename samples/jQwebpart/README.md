@@ -4,7 +4,6 @@
 
 Connect your client-side web part to SharePoint
 
-[picture of the solution in action, if possible]
 ![image](https://user-images.githubusercontent.com/84363913/130340008-c574edb0-497c-4697-b3b3-778eb1cd45f4.png)
 
 
@@ -31,7 +30,7 @@ Npm install @types/jqueryui --save-dev
 
 Solution|Author(s)
 --------|---------
-folder name | Author details (Viral Naik, company, twitter alias with link)
+JQWebpart | Author details (Viral Naik)
 
 ## Version history
 
@@ -62,9 +61,8 @@ Description of the extension that expands upon high-level summary above.
 
 This extension illustrates the following concepts:
 
-- topic 1
-- topic 2
-- topic 3
+- This webpart is based on Microsoft documentation
+- https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/connect-to-sharepoint
 
 > Notice that better pictures and documentation will increase the sample usage and the value you are providing for others. Thanks for your submissions advance.
 
