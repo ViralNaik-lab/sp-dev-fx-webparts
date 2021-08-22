@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jq-web-part-client-side-solution",
+    "id": "bcc143e1-11bf-454e-b949-39c097a02b24",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/jq-web-part.sppkg"
+  }
+}
